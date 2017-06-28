@@ -118,4 +118,5 @@ The resulting HTML will look like this:
 </html>
 ```
 
+
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-yield-readme' title='Sinatra Yield Readme'>Sinatra Yield Readme</a> on Learn.co and start learning to code for free.</p>
